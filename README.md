@@ -23,17 +23,17 @@ User stories:
 Orientações Técnicas:
 ----
 
-- Utilizar um biblioteca para consumo de API: sugestão Axios.
-- Utilizar uma biblioteca de roteamento para alternar entre as paginas: sugestão react-router-dom.
-- Observar a orientação a componente para reuso de código.
-- CSS liberado utilizar como achar melhor. Do clássico as libraries (bootstrap, material UI, etc.).
+- Utilizar um biblioteca para consumo de API: sugestão Axios. feito
+- Utilizar uma biblioteca de roteamento para alternar entre as paginas: sugestão react-router-dom. feito
+- Observar a orientação a componente para reuso de código. feito
+- CSS liberado utilizar como achar melhor. Do clássico as libraries (bootstrap, material UI, etc.). feito
 - Ser Responsivo
 
 Instruções gerais:
 ----
 
-1. Faça um fork deste projeto.
-2. Crie uma branch com o padrão `seunome-desafio-react`.
+1. Faça um fork deste projeto. feito
+2. Crie uma branch com o padrão `seunome-desafio-react`. feito
 3. Ao finalizar este desafio, enviar um PR com suas alterações e envie um e-mail para os contatos abaixo, com o link do PR.
 
 Referências da API
